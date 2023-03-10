@@ -1,1 +1,3 @@
 first sentence!
+trying to understand git 
+not going so well hahaha
