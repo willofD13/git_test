@@ -2,3 +2,4 @@ first sentence!
 trying to understand git 
 not going so well hahaha
 something is happening
+keep working on it
